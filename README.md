@@ -22,5 +22,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Links and Screenshots
-<img src="Assets\generate-password.PNG" alt="Generate Password base image, has a red interact button saying generate password" 
+## Links
+ https://github.com/TheJamesPeacock/Week3-HW-Password-Generator
+
